@@ -1,9 +1,5 @@
 # T1
-Here's the professionally formatted content for your AWS S3 bucket setup report, tailored to match the screenshot you shared earlier:
-
----
-
-## **TASK 1 → CLOUD STORAGE SETUP**
+**TASK 1 → CLOUD STORAGE SETUP**
 
 **COMPANY**: Codtech IT Solution
 **NAME**: Srinidi R
@@ -14,13 +10,13 @@ Here's the professionally formatted content for your AWS S3 bucket setup report,
 
 ---
 
-### **📄 DESCRIPTION**
+**📄 DESCRIPTION**
 
 This task involved creating and configuring a cloud storage solution using **Amazon Web Services (AWS) S3**. The objective was to gain practical experience in managing cloud storage, setting permissions, and enabling file sharing via public URLs. As part of the setup, a bucket named **`cloudtask-examplebucket`** was created, a sample document was uploaded, and access control settings were configured to demonstrate a fully functional storage service.
 
 ---
 
-### **🌟 FEATURES IMPLEMENTED**
+**🌟 FEATURES IMPLEMENTED**
 
 * ✅ Created an **S3 bucket**: `cloudtask-examplebucket`
 * ✅ Selected region: **Asia Pacific (Mumbai) ap-south-1**
@@ -31,7 +27,7 @@ This task involved creating and configuring a cloud storage solution using **Ama
 
 ---
 
-### **🛠 TECHNOLOGIES USED**
+**🛠 TECHNOLOGIES USED**
 
 * **Amazon Web Services (AWS)** – S3
 * **AWS Management Console**
@@ -41,7 +37,7 @@ This task involved creating and configuring a cloud storage solution using **Ama
 
 ---
 
-### **🔗 HOW TO ACCESS THE FILE**
+**🔗 HOW TO ACCESS THE FILE**
 
 * 📎 Visit the link:
   `https://cloudtask-examplebucket.s3.ap-south-1.amazonaws.com/task+1.docx`
